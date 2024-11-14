@@ -13,4 +13,4 @@ This project is a simple comments section where users can add, edit, delete, and
 
 1. Clone the repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/HARIOM-HAWKEYE/nested-comments/tree/main>
